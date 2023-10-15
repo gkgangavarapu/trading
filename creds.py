@@ -1,0 +1,4 @@
+def client_id():
+    return "1100026353"
+def access_token():
+    return "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNjk5OTg2NjYyLCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMDAyNjM1MyJ9.UiXr4RnDHCFE8lfvltt3lvXyeFlRAGsfklF_JhQ9eTgaBS4hg4IQrOBhqY2N9dFIts1FlXmuc30sl2dOMR58dw"
